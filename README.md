@@ -65,17 +65,6 @@ the workflow was divided into 4 sections following
 
 
 
-What segments do these questions touch?
-
-Discounts → How are we promoting products?
-Out of Stock → Where are we losing revenue?
-Revenue → Which categories make the most money?
-Average Discount → Which categories rely most on discounts?
-Price per Gram → Which products provide the best value?
-Segmentation → How do customers buy products?
-Inventory Weight → How should we manage storage and logistics?
-
-
 Skills Demonstrated
 
 - SQL (MySQL)
@@ -88,4 +77,25 @@ Skills Demonstrated
 - Joins (if applicable)
 - Subqueries
 - Window Functions (if applicable)
+  
+
+
+What segments do these questions touch?
+
+Discounts → How are we promoting products?
+
+Out of Stock → Where are we losing revenue?
+
+Revenue → Which categories make the most money?
+
+Average Discount → Which categories rely most on discounts?
+
+Price per Gram → Which products provide the best value?
+
+Segmentation → How do customers buy products?
+
+Inventory Weight → How should we manage storage and logistics?
+
+
+
 
