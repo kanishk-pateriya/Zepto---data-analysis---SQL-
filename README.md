@@ -75,3 +75,17 @@ Price per Gram → Which products provide the best value?
 Segmentation → How do customers buy products?
 Inventory Weight → How should we manage storage and logistics?
 
+
+Skills Demonstrated
+
+- SQL (MySQL)
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Business Analytics
+- Aggregate Functions
+- GROUP BY & HAVING
+- CASE Statements
+- Joins (if applicable)
+- Subqueries
+- Window Functions (if applicable)
+
